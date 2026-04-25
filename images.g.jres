@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQYABAAAAAAAADwDwAAAAAAAIwPAAAA/P/PiA8AAACcifjID8D8AMyZiMwPj/gAwJyJyPyI+AAAzIzIjIj4AADAjMiIiPgPAMCIyIiY/P8AwIjIiJn//wCPiIic+f//AI+IiJj/j/gAj4iIiPzM/PCMiIiI+MgPz5yIm4j4/wDPnIiRiPgAAI+ciRGI+AAAj4+5EYj4AAD/z5sZiPgAAP/AmbmI+AAAAACci4gPAAAAAMCIiA8AAAAAAIz4AAAAAAAAwA8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Plane"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAIAAAAAAAAgAYAAAAAAACABgAAAAAAAIAGAAAAAAAAgAgAAAAAAACACAAAAAAAAJAJAAAAAAAAkAkAAAAAAACQCQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Dart"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAzMwAAAAAzM4gDAAAAAIOIiQMAAAAAg4mJAwAAAACDiIkDAAAAAIOJiAMAAAAAMzMzAwAAAAAzADADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Enemy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
