@@ -10,7 +10,7 @@ sprites.onOverlap(SpriteKind.Projectile, SpriteKind.Enemy, function (sprite, oth
 })
 sprites.onOverlap(SpriteKind.Player, SpriteKind.Enemy, function (sprite, otherSprite) {
     otherSprite.destroy(effects.coolRadial, 1000)
-    scene.cameraShake(67, 1000)
+    scene.cameraShake(9999999, 1000)
     info.changeLifeBy(-1)
 })
 let bogey: Sprite = null
